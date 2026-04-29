@@ -13,3 +13,6 @@ print("gocha")
 print("kato")
 
 print("tamari")
+
+name = "daviti"
+print(name)
